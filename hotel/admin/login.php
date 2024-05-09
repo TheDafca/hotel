@@ -75,10 +75,7 @@ $query = $conn->query("SELECT * FROM system_settings limit 1")->fetch_array();
 
   <main id="main" class=" alert-info">
   		<div id="login-left">
-  			<!-- == You can logo or image herre == -->
-  			<!-- <div class="logo">
-  				<i class="fa fa-poll-h"></i>
-  			</div> -->
+
   		</div>
   		<div id="login-right">
   			<div class="card col-md-8">

@@ -77,7 +77,7 @@
     </div>
   </div>
         <footer class="bg-light py-5">
-            <div class="container"><div class="small text-center text-muted">Hotel Mangement system | <a href="https://1sourcecodr.blogspot.com/" target="_blank">1 SOURCE CODE</a></div></div>
+            <div class="container"><div class="small text-center text-muted">Hotel Mangement system - David Lepič, Marek Hladík 2024</div></div>
         </footer>
         
        <?php include('footer.php') ?>
